@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UnknownApp",
+    "\\UnknownApp\\Controllers",
+    "\\UnknownApp\\Models",
+    "\\UnknownApp\\Views\\App",
+    "\\UnknownApp\\Views\\Home",
+    "\\UnknownApp\\Views\\Shared"
+  ],
+  "SelectedNode": "\\UnknownApp\\Controllers\\AppController.cs",
+  "PreviewInSolutionExplorer": false
+}
